@@ -1,0 +1,12 @@
+*.iml
+*.ipr
+*.iws
+*.log
+*~
+.DS_Store
+.project
+.classpath
+target
+test-output
+test-data
+data
